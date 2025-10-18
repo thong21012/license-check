@@ -1,4 +1,4 @@
 {
-  "allowed": false,
-  "message": "Đã chặn quyền truy cập"
+  "allowed": true,
+  "message": "OK"
 }
