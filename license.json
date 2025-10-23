@@ -1,4 +1,4 @@
 {
-  "allowed": false,
-  "message": "Tạm dừng ứng dụng"
+  "allowed": true,
+  "message": "OK"
 }
